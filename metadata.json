@@ -1,0 +1,6 @@
+{
+  "name": "Snapora",
+  "description": "Mobile-first social media app with real camera snaps, disappearing messages, stories, real-time chat, and private admin control.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
